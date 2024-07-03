@@ -1,12 +1,15 @@
-# SearchBox
+# Better Search Input
 This repository contains an Angular search input component that integrates with a backend service to fetch search results. The component is optimized for performance and readability, utilizing RxJS for reactive programming and Angular's best practices. Additionally, it uses TailwindCSS and DaisyUI for styling.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
 
 ## Features
 
-Debounced search input to limit API calls and improve performance.
-Reactive programming with RxJS for efficient event handling.
-Styled with TailwindCSS and DaisyUI for a modern design.
+• Debounced search input to limit API calls and improve performance.
+
+• Reactive programming with RxJS for efficient event handling.
+
+• Styled with TailwindCSS and DaisyUI for a modern design.
 
 ## Development server
 
