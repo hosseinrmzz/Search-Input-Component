@@ -1,6 +1,12 @@
 # SearchBox
-
+This repository contains an Angular search input component that integrates with a backend service to fetch search results. The component is optimized for performance and readability, utilizing RxJS for reactive programming and Angular's best practices. Additionally, it uses TailwindCSS and DaisyUI for styling.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+
+## Features
+
+Debounced search input to limit API calls and improve performance.
+Reactive programming with RxJS for efficient event handling.
+Styled with TailwindCSS and DaisyUI for a modern design.
 
 ## Development server
 
@@ -13,14 +19,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
