@@ -1,4 +1,4 @@
-# Better Search Input
+# Optimized Search Input
 This repository contains an Angular search input component that integrates with a backend service to fetch search results. The component is optimized for performance and readability, utilizing RxJS for reactive programming and Angular's best practices. Additionally, it uses TailwindCSS and DaisyUI for styling.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
